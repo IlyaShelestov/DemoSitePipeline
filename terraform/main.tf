@@ -1,7 +1,7 @@
 provider "aws" {
   region = "eu-north-1"
-  access_key = "AKIAQ3EGS25NHBTCXROG"
-  secret_key = "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"
+  access_key = "AKIAQ3EGS25NPEFQIYFF"
+  secret_key = "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"
 }
 
 resource "aws_instance" "broadleaf_demo2" {
